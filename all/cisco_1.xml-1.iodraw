@@ -154,6 +154,9 @@
         <mxCell id="2135" value="" style="shape=mxgraph.cisco.routers.router;html=1;dashed=0;fillColor=#10739E;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;fontFamily=Helvetica;fontSize=36;fontColor=#FFB366" parent="1" vertex="1">
           <mxGeometry x="1443" y="595" width="78" height="53" as="geometry" />
         </mxCell>
+        <mxCell id="3gysPHuHPx6WlzBn1m4F-2257" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2136" target="2086">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2136" value="" style="shape=mxgraph.cisco.switches.workgroup_switch;html=1;dashed=0;fillColor=#10739E;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;fontFamily=Helvetica;fontSize=36;fontColor=#FFB366" parent="1" vertex="1">
           <mxGeometry x="745" y="694" width="101" height="50" as="geometry" />
         </mxCell>
@@ -319,7 +322,7 @@
         <mxCell id="2173" style="edgeStyle=none;rounded=1;html=1;strokeColor=#23445D;endArrow=none;endFill=0;strokeWidth=4" parent="1" source="2112" target="2116" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2174" style="edgeStyle=none;rounded=1;html=1;strokeColor=#23445D;endArrow=none;endFill=0;strokeWidth=4;" parent="1" source="2112" edge="1">
+        <mxCell id="2174" style="edgeStyle=none;rounded=1;html=1;strokeColor=#23445D;endArrow=none;endFill=0;strokeWidth=4;entryX=0.615;entryY=0.258;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="2112" target="2147" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="750" y="380" as="sourcePoint" />
             <mxPoint x="740" y="690" as="targetPoint" />
