@@ -31,7 +31,7 @@
         <mxCell id="fLXequMgEuZz2TyyZer3-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fLXequMgEuZz2TyyZer3-7" target="fLXequMgEuZz2TyyZer3-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fLXequMgEuZz2TyyZer3-7" value="工程" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fLXequMgEuZz2TyyZer3-7" value="模型通用工程" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="80" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fLXequMgEuZz2TyyZer3-8" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
